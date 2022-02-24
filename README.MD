@@ -4,7 +4,7 @@ Choose one of the following:
 
 1. Mockup  - Using one of the mockups supplied, build a html page
 
-2. UI Pattern - Using one of the 
+2. [UI Pattern](/UI/README.MD) - Using one of the 
 
 BONUS:
  - Create a mobile version
