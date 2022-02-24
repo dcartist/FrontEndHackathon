@@ -2,7 +2,7 @@
 
 Choose one of the following:
 
-1. Mockup  - Using one of the mockups supplied, build a html page
+1. [Mockup](/MOCKUP/README.MD)  - Using one of the mockups supplied, build a html page
 
 2. [UI Pattern](/UI/README.MD) - Using one of the 
 
