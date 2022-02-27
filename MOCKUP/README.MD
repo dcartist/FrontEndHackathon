@@ -19,8 +19,7 @@ SVG Repo - https://www.svgrepo.com
 
 
 
-
-Agency Mockup
+### Agency Mockup
 
 
 
@@ -28,22 +27,30 @@ Agency Mockup
 
 
 
-Blog Mockup
+
+
+### Blog Mockup
 
 <img src="Blog/Blog.png" style="zoom:13%;" />
 
-Business Mockup
+
+
+### Business Mockup
 
 <img src="Business/BusinessLandingPage.png" style="zoom:13%;" />
 
 <img src="Ecommerce/commerce.jpg" style="zoom:13%;" />
 
-Restaurant Mockup
+
+
+### Restaurant Mockup
 
 <img src="Restaurant/Restaurant.png" style="zoom:13%;" />
 
 
 
-Travel
+
+
+### Travel
 
 <img src="Travel/TravelHome.jpg" style="zoom:13%;" />
