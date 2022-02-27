@@ -8,9 +8,7 @@ Choose one of the following:
 
 
 BONUS:
- - Create a mobile version
-
-- Be deployed to Heroku, Netlify, Github, or Vercel (THIS IS REQUIRED)
+- Be deployed to Heroku, Netlify, Github, or Vercel
 
 - Have good, clean code with comments on what is happening throughout your code. Use the auto-formatter regularly!
 
