@@ -1,6 +1,6 @@
 # UI Patterns
 
-You will need to pick a UI pattern from the listed below then build out the UI pattern.
+You will need to pick an UI pattern from the listed below then build out the UI pattern.
 
 You must build your UI pattern from scratch (CSS, HTML, and javascript) and no UI kits/frameworks (like bootstrap, Material Design, etc.).
 
