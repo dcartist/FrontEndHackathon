@@ -7,7 +7,28 @@ font awesome - https://fontawesome.com
 Icons8 - https://icons8.com
 SVG Repo - https://www.svgrepo.com
 
+
+
+[Agency Mockup](#agency-mockup)
+
+[Blog Mockup](#blog-mockup)
+
+Business Mockup 
+
+
+
+Ecommerce Mockup
+
+
+
+Travel Mockup
+
+
+
+
+
 ## Tips 
+
 - Have good, clean code with comments on what is happening throughout your code. Use the auto-formatter regularly!
 - Demonstrate a good commit history. The more commits you make, the better it is for you when something goes wrong.
 
@@ -39,6 +60,10 @@ SVG Repo - https://www.svgrepo.com
 
 <img src="Business/BusinessLandingPage.png" style="zoom:13%;" />
 
+
+
+### Ecommerce Mockup
+
 <img src="Ecommerce/commerce.jpg" style="zoom:13%;" />
 
 
@@ -51,6 +76,6 @@ SVG Repo - https://www.svgrepo.com
 
 
 
-### Travel
+### Travel Mockup
 
 <img src="Travel/TravelHome.jpg" style="zoom:13%;" />
