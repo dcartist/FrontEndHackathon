@@ -7,15 +7,16 @@ font awesome - https://fontawesome.com
 Icons8 - https://icons8.com
 SVG Repo - https://www.svgrepo.com
 
+## Tips 
+- Have good, clean code with comments on what is happening throughout your code. Use the auto-formatter regularly!
+- Demonstrate a good commit history. The more commits you make, the better it is for you when something goes wrong.
 
-BONUS:
- - Create a mobile version
-
+## BONUS:
+- Create a mobile version
 - Be deployed to Heroku, Netlify, Github, or Vercel
 
-- Have good, clean code with comments on what is happening throughout your code. Use the auto-formatter regularly!
 
-- Demonstrate a good commit history. The more commits you make, the better it is for you when something goes wrong.
+
 
 
 

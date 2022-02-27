@@ -4,6 +4,15 @@ You will need to pick an UI pattern from the listed below then build out the UI 
 
 You must build your UI pattern from scratch (CSS, HTML, and javascript) and no UI kits/frameworks (like bootstrap, Material Design, etc.).
 
+## Tips 
+- Have good, clean code with comments on what is happening throughout your code. Use the auto-formatter regularly!
+- Demonstrate a good commit history. The more commits you make, the better it is for you when something goes wrong.
+
+## BONUS:
+- Create a mobile version
+- Be deployed to Heroku, Netlify, Github, or Vercel
+
+
 
 
 ##  Tabs (Module)
