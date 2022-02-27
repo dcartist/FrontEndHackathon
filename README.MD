@@ -2,14 +2,13 @@
 
 Choose one of the following:
 
-1. [Mockup](/MOCKUP/README.MD)  - Using one of the mockups supplied, build a html page
+1. [Mockup](/MOCKUP/README.MD) - Using one of the mockups supplied, build a html page.
 
-2. [UI Pattern](/UI/README.MD) - Using one of the 
+2. [UI Pattern](/UI/README.MD) - Using one of the UI PATTERNS listed in the UI folder, build out a UI Pattern from scratch. 
+
 
 BONUS:
  - Create a mobile version
-
-
 
 - Be deployed to Heroku, Netlify, Github, or Vercel (THIS IS REQUIRED)
 
