@@ -6,7 +6,7 @@ You must build your UI pattern from scratch (CSS, HTML, and javascript) and no U
 
 
 
-####  Tabs (Module)
+##  Tabs (Module)
 
 
 
@@ -18,7 +18,7 @@ resource: [Smashing Magazine definition](https://www.smashingmagazine.com/2009/0
 
 
 
-#### Slideshow/Carosel
+## Slideshow/Carosel
 
 
 
@@ -33,7 +33,7 @@ resource: [nngroup definition](https://www.nngroup.com/articles/designing-effect
 
 
 
-#### Accordion
+## Accordion
 
 
 
@@ -47,7 +47,7 @@ resource: [nngroup definition](https://www.nngroup.com/articles/mobile-accordion
 
 
 
-#### Modal
+## Modal
 
 
 
