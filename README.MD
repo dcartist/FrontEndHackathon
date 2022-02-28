@@ -10,7 +10,7 @@ Choose one of the following:
 
 
 
-How to approach coding when your mind goes completely blank:
+### How to approach coding when your mind goes completely blank:
 
 1. Don't panic; going blank happens to everybody from time to time. 
 
